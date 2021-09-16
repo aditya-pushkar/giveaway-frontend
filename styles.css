@@ -127,6 +127,7 @@ nav .wrapper {
   margin-top: 40px;
 }
 
+
 .nav-list a {
   color: var(--black);
   font-size: 1.5rem;
@@ -778,7 +779,7 @@ nav .wrapper {
 /* FOOTER */
 
 .footer {
-  background-color: var(--black);
+  background-color: #272D3B;
   padding: 6rem 1rem;
   line-height: 3rem;
 }
@@ -801,9 +802,9 @@ nav .wrapper {
   transition: 0.6s;
 }
 
-.footer-center a:hover {
+/* .footer-center a:hover {
   color: var(--primary);
-}
+} */
 
 .footer-center div {
   color: #f1f1f1;
